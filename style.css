@@ -2,3 +2,20 @@
     margin: 0;
     padding: 0;
 }
+
+body {
+    direction: rtl;
+    background: rgb(9, 156, 112);
+}
+
+form {
+    width: 80%;
+    margin: 25px auto;
+    background-color: rgb(216, 205, 205);
+}
+
+table {
+    margin: 30px auto;
+    border-collapse: collapse;
+}
+
