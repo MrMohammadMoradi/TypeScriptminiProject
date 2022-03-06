@@ -19,3 +19,33 @@ table {
     border-collapse: collapse;
 }
 
+.addInformationTable th{
+    
+    padding: 0px 10px;
+}
+
+
+#addInfoSubmit {
+    text-align: center;
+    padding-top: 15px ;
+    padding-right: 35px; 
+    font-size: bold;   
+}
+#submit {
+    padding: 8px;
+}
+
+
+.InformationTable th {
+    padding: 10px 35px;
+    /*border: 1px solid rgb(68, 0, 77);*/
+    color: rgb(253, 249, 249);
+    font-size: larger;
+
+}
+/* .InformationTable td {
+    padding: 10px 35px;
+    /*border: 1px solid rgb(68, 0, 77);/***
+    color: rgb(253, 249, 249);
+    font-size: larger;
+} */
