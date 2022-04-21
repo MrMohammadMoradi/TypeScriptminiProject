@@ -33,8 +33,15 @@ table {
 }
 #submit {
     padding: 8px;
+    font-size: larger;
+    color: blue;
 }
 
+
+.ShowInformation {
+    width: 70%;
+    margin: 10px auto;
+}
 
 .InformationTable th {
     padding: 10px 35px;
@@ -42,6 +49,12 @@ table {
     color: rgb(253, 249, 249);
     font-size: larger;
 
+}
+
+.addInformationUser {
+    color: white;
+    margin: 20px auto;
+    font-size: large;
 }
 /* .InformationTable td {
     padding: 10px 35px;
